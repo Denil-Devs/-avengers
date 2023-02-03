@@ -1,5 +1,4 @@
 # Villanos
 
-* dr. doom
-* red
-* Capitán America
+1. dr. doom
+2. red
